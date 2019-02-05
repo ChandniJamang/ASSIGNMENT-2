@@ -1,0 +1,4 @@
+C:\16ce008\practical2\program 4\program 4\bin\Debug\program 4.exe
+C:\16ce008\practical2\program 4\program 4\bin\Debug\program 4.pdb
+C:\16ce008\practical2\program 4\program 4\obj\x86\Debug\program 4.exe
+C:\16ce008\practical2\program 4\program 4\obj\x86\Debug\program 4.pdb
